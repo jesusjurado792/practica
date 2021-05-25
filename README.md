@@ -1,1 +1,1 @@
-cuando creí escuchar
+un extraño ruido, de repente
