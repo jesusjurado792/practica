@@ -1,1 +1,1 @@
-releía un vetusto mamotreto
+cuando creí escuchar
