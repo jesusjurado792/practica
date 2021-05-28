@@ -1,0 +1,38 @@
+body{
+    background-image: url(../../../logohtml5.jpg);
+    background-repeat: no-repeat;
+}
+
+
+h1{
+    color: blueviolet;
+}
+p{
+    font-family: cursive;
+    font-size: xx-large;
+}
+.first{
+    color: rgb(27, 6, 216);
+
+}
+.second
+{
+    color: rgb(207, 0, 0);
+}
+.tirdth{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+b{
+    color: brown;
+    font-size: xx-large;
+
+}
+.bgcolor{
+    max-width: 40%;
+    background-color: darkcyan;
+    float: left;
+    margin: 5px;
+    padding: 8px;
+}
+
