@@ -1,0 +1,31 @@
+body{
+margin: 0;
+font-family: Arial, Helvetica, sans-serif;
+}
+
+
+nav{
+    float: left;
+    padding: 0.25em .25em 0 0;
+    font-size: 1.5em;
+    text-transform: uppercase;
+}
+
+header.
+nav.
+section.
+footer{
+    float: left;
+    width: 100%;
+
+}
+
+a{
+    text-decoration: none;
+}
+link{
+    font-weight: bold;
+    color: red;
+}
+
+.nav-ul
